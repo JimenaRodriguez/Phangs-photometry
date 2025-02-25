@@ -5,7 +5,7 @@ This repository provides several Jupyter notebooks to reproduce the source selec
 ## Available Notebooks  
 
 - **Source Detection:**  
-  - `Source_Detection_Find_Peaks.ipynb` → Identifies source using Photutils find-peaks in the F335M JWST images.  
+  - `Source_Detection_Find_Peaks.ipynb` → Identifies sources using Photutils find-peaks in the F335M JWST images.  
 
 - **Photometry:**  
   - `PHANGS-JWST-Cycle1-Photometry.ipynb` → Performs aperture photometry on detected sources across HST and JWST bands.  
